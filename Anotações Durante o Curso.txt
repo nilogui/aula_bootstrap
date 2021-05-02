@@ -1,3 +1,17 @@
+-->B Introdução ao HTML5 e CSS3 com o Framework Bootstrap (Prof. Lucas Vilaboim)
+- https://web.digitalinnovation.one/browse ==> https://www.youtube.com/watch?v=mVRq0TcQAvo
+- O Bootstrap divide a tela em 12 partes. Usa CSS e JS. Atende responsividade e mobiles. É um conjunto de estilos para classes
+e componentes.
+- $ git clone https://github.com/python/cpython.git    (replica o repositório remoto na máquina local)
+- $ git add . (prepara TUDO na pasta para o Commit)
+- $ git commit -m "Inclusão do Projeto aula+bootstrap"
+- $ git add * (ou ".")(Joga para Staged)
+- $ git commit -m "msg" (Joga para Unmodified em Repositório Local)
+- $ git remote rm origin
+- $ git remote add origin https://github.com/nilogui/aula_bootstrap.git
+- $ git push origin main (Era master ao invés de main até OCT/2020 - https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
+-->E Introdução ao HTML5 e CSS3 com o Framework Bootstrap (Prof. Lucas Vilaboim)
+
 -->B Construindo páginas para internet com Bootstrap (Prof. Rafael Galleani, morando em Lisboa desde 2019)
 - https://web.digitalinnovation.one/browse ==> https://www.youtube.com/watch?v=YEM8bbqqASU
 - $ git add * (ou ".")(Joga para Staged)
