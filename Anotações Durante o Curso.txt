@@ -1,0 +1,23 @@
+-->B Construindo páginas para internet com Bootstrap (Prof. Rafael Galleani, morando em Lisboas desde 2019)
+- https://web.digitalinnovation.one/browse ==> https://www.youtube.com/watch?v=YEM8bbqqASU
+- $ git add * (ou ".")(Joga para Staged)
+- $ git commit -m "msg" (Joga para Unmodified em Repositório Local)
+- $ git remote rm origin
+- $ git remote add origin https://github.com/nilogui/aula_bootstrap.git
+- $ git push origin main (Era master ao invés de main até OCT/2020 - https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
+    - $ git push origin master (Copia do Repositório Local para o github(cloud))
+- $ git status
+- $ git update-git-for-windows
+- $ git remote -v (mostra os repositórios no Github)
+- $ git clone https://github.com/python/cpython.git    (replica o repositório remoto na máquina local)
+- $ 
+- <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Minha Página</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css\style.css">
+    </head>
+    <body> ...
+-->E Construindo páginas para internet com Bootstrap (Prof. Rafael Galleani, morando em Lisboas desde 2019)
