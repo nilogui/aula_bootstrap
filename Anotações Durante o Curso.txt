@@ -4,7 +4,8 @@
 - $ git commit -m "msg" (Joga para Unmodified em Repositório Local)
 - $ git remote rm origin
 - $ git remote add origin https://github.com/nilogui/aula_bootstrap.git
-- $ git push origin main (Era master ao invés de main até OCT/2020 - https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote) / $ git push origin master (Copia do Repositório Local para o github(cloud))
+- $ git push origin main (Era master ao invés de main até OCT/2020 - https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote) 
+    / $ git push origin master (Copia do Repositório Local para o github(cloud))
 - $ git status
 - $ git update-git-for-windows
 - $ git remote -v (mostra os repositórios no Github)
